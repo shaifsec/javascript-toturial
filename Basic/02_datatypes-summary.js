@@ -43,3 +43,10 @@ const myFunction = function() {
 console.log(typeof outsideTemp); // object
 
 
+
+
+
+// ****************************************************
+
+
+
